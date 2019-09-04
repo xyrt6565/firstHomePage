@@ -1,0 +1,243 @@
+*{   
+    margin: 0%;
+}
+
+/* .about{
+    padding-top: 50px;
+    padding-bottom: 60px;
+    height: auto
+} */
+#vegas {
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{    font-size: 20px;
+    color: #fff;
+    display: block;
+    width: 300px; 
+    text-align: center;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 15px 30px;
+     border: 5px solid #fff; 
+    box-sizing: border-box;
+    font-weight: 600;
+    height: 70px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+
+}
+.about{
+    background-image: url(img/kazukihirosdfygufrc-Edit.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 102vh;
+    line-height: 1.9;
+}
+
+
+.h2-content{
+    font-size: 50px;
+    margin-bottom: 65px;
+    text-align: center;
+    color: #000;
+    font-family: serif;
+}
+
+.row{
+    width: 90%;
+    margin: 0 auto;
+    /* height: 50%; */
+}
+
+.wrap{
+    background-color: #1a1a1a;
+    opacity: 0.8;
+    border-radius: 20px;
+    z-index: 0;
+    padding: 40px 0px;
+    display: flex; 
+}
+
+.KK{
+    width: 50%;
+}
+
+.me{
+    border-radius: 0;
+    display: inline-block;
+    width: 61%;
+    filter: saturate(150%);
+    margin-left: 60px;
+}
+
+.col-md-6{
+    width: 50%;
+    }
+
+.col-md-3{
+    display: block;
+    width: 25%;
+    float: left;
+}
+
+.fab{
+    margin-top: 40px;
+    font-size: 40px;
+    color: #fff;
+}
+.about-p{
+    color: #fff;
+    font-size: 40px
+}
+
+.about-p1 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.about-p2{
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+
+td{
+    padding: 0;
+    display: table-cell;
+    vertical-align: inherit;
+    color: #fff;
+}
+.br-sp{
+    display: none;
+}
+
+.HS{
+    background-image: url(img/macbook1983.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 102vh;
+    line-height: 1.9;
+    display: flex;
+}
+.I{
+    width: 100%;
+}
+
+.title-sub {
+    font-weight: bold;
+    padding-bottom: 20px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.TWW{
+     width: 60px;
+    }
+
+.J{
+    width: 50%;
+    /* float: left; */
+    text-align: center;
+    color: #fff;
+    /* width: calc(100%/2) ; */
+    /* margin-left: 5%; */
+    /* margin-right: 5%; */
+    margin-top: 5%; 
+    /* margin-bottom: 10%; */
+}
+
+.FJ{
+    text-align: center;
+}
+
+.FJJ{
+     width: 161px;
+}
+
+.HY{
+    text-align: center;
+}
+
+.HYY{
+    width: 60px;
+}
+
+.HT{
+    background-image: url(img/heriyakei419175.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 102vh;
+    line-height: 1.9;
+    /* display: flex; */
+}
+
+.h2-contents{
+    font-size: 50px;
+    margin-bottom: 65px;
+    text-align: center;
+    color: #fff;
+}
+
+.h2{
+    color: #fff;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.texst{
+    text-align: center;
+    color: #fff;
+}
+
+.sp{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0%;
+    }
+.sp2{
+    width: 50%;
+}
+.sp2 a{
+    font-size: 100px;
+    text-align: center;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    /* letter-spacing: 0.3em; */
+    padding: 20px 0;
+}
+
+.sp2 a:hover{
+    background-image: url(img/roppongihills-2.jpg)
+}
+
+.sp2 a{
+    width: 100%;
+    float: left;
+    border:5px solid #fff;
+}
+
+
+@media screen and (max-width:700px){
+    .wrap{
+        display: inline; 
+
+    }
+    
+    
+}
