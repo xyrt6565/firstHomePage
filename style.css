@@ -53,7 +53,7 @@ h1{    font-size: 20px;
 .row{
     width: 90%;
     margin: 0 auto;
-    /* height: 50%; */
+    height: 50%;
 }
 
 .wrap{
@@ -72,7 +72,7 @@ h1{    font-size: 20px;
 .me{
     border-radius: 0;
     display: inline-block;
-    width: 61%;
+    width: 49%;
     filter: saturate(150%);
     margin-left: 60px;
 }
