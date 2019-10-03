@@ -65,23 +65,20 @@ h1{    font-size: 20px;
     display: flex; 
 }
 
-.KK{
+.Photo{
     width: 50%;
 }
 
 .me{
     border-radius: 0;
     display: inline-block;
-    width: 49%;
+    width: 45%;
     filter: saturate(150%);
     margin-left: 60px;
 }
 
-.col-md-6{
-    width: 50%;
-    }
 
-.col-md-3{
+.sns{
     display: block;
     width: 25%;
     float: left;
@@ -119,7 +116,7 @@ td{
     display: none;
 }
 
-.HS{
+.work{
     background-image: url(img/macbook1983.jpg)!important;
     background-repeat: no-repeat;
     background-size: cover;
@@ -129,7 +126,7 @@ td{
     display: flex;
 
 }
-.XY{  width: 90%;
+.work01{  width: 90%;
      margin: 0 auto;
      height: 91%;
      display: flex;
@@ -147,11 +144,9 @@ td{
     padding-top: 30px;
 }
 
-.TWW{
-     width: 60px;
-    }
 
-.J{
+
+.cording{
     width: 50%;
     /* float: left; */
     text-align: center;
@@ -167,7 +162,7 @@ td{
     
 }
 
-.FJ{
+.youtube{
     text-align: center;
 }
 
@@ -193,7 +188,7 @@ td{
     width: 60px;
 }
 
-.HT{
+.Activity{
     background-image: url(img/heriyakei419175.jpg)!important;
     background-repeat: no-repeat;
     background-size: cover;
@@ -255,11 +250,19 @@ td{
 }
 
 
-@media screen and (max-width:700px){
-    .wrap{
-        display: inline; 
-
+@media screen and (max-width:830px){
+    .h2-content{
+        font-size: 50px;
+        margin-bottom: -13px;
+        text-align: center;
+        color: #000;
+        font-family: serif;
     }
     
-    
+    .row{
+        width: 90%;
+        margin: 0 auto;
+        height: 70%;
+    }
+
 }
